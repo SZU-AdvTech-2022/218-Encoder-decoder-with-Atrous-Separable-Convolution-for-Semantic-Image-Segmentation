@@ -1,0 +1,7 @@
+@inproceedings{REPO-219,
+    author = "Chen, Liang-Chieh and Zhu, Yukun and Papandreou, George and Schroff, Florian and Adam, Hartwig",
+    booktitle = "Proceedings of the European conference on computer vision (ECCV)",
+    pages = "801--818",
+    title = "{Encoder-decoder with Atrous Separable Convolution for Semantic Image Segmentation}",
+    year = "2018"
+}
